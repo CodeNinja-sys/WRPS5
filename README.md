@@ -1,2 +1,2 @@
-# WRPS5
+# WRPS5 (Windows Run PlayStation 5)
 A open-source emulator PlayStation 5
